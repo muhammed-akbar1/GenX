@@ -1,96 +1,91 @@
 <img width="3188" height="1202" alt="frame (3)" src="https://github.com/user-attachments/assets/517ad8e9-ad22-457d-9538-a9e62d137cd7" />
 
 
-# [Project Name] 🎯
+# [Brew Buddy] 🎯
 
 
 ## Basic Details
-### Team Name: [Name]
+### Team Name: [GenX]
 
 
 ### Team Members
-- Team Lead: [Name] - [College]
-- Member 2: [Name] - [College]
-- Member 3: [Name] - [College]
+- Team Lead: [Muhammed Akbar] - [College of Engineering Trivandrum]
+- Member 2: [Anu An Mariya] - [College of Engineering Trivandru]
 
 ### Project Description
-[2-3 lines about what your project does]
+[An AI-powered app that helps you find the fastest and most satisfying tea shop option near you based on travel times, queue lengths, and tea preferences — plus it recommends a coffee based on your detected mood using your webcam!]
 
 ### The Problem (that doesn't exist)
-[What ridiculous problem are you solving?]
+[Everyone wastes time deciding where to get tea and guessing what coffee suits their mood. Why should choosing a drink be so complicated and slow?]
 
 ### The Solution (that nobody asked for)
-[How are you solving it? Keep it fun!]
+[We made a smart, fun app that optimizes your tea time by balancing travel and preparation time with taste satisfaction — and adds a mood-based coffee recommendation by detecting your facial expression live!]
 
 ## Technical Details
 ### Technologies/Components Used
 For Software:
-- [Languages used]
-- [Frameworks used]
-- [Libraries used]
-- [Tools used]
+Python
+
+Streamlit (for UI)
+
+scikit-learn (Random Forest Regression)
+
+pandas, numpy (data handling)
+
+networkx (graph and pathfinding)
+
+FER (facial emotion recognition)
+
+OpenCV, Pillow (image processing)
+
+Plotly (interactive graph visualization)
+
 
 For Hardware:
-- [List main components]
-- [List specifications]
-- [List tools required]
+Laptop or PC with webcam
+
+Internet connection (for Streamlit app and dependencies)
+
 
 ### Implementation
 For Software:
 # Installation
-[commands]
+[# Clone repo
+git clone https://github.com/yourusername/tea-time-optimizer.git
+cd tea-time-optimizer
+
+# Create virtual environment (optional but recommended)
+python -m venv venv
+source venv/bin/activate  # Linux/Mac
+venv\Scripts\activate     # Windows
+
+# Install dependencies
+pip install -r requirements.txt]
 
 # Run
-[commands]
+[streamlit run app.py]
 
 ### Project Documentation
 For Software:
 
 # Screenshots (Add at least 3)
-![Screenshot1](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+![https://drive.google.com/drive/folders/1Q9rpRCWbvqTcAfDZDStnRb65ARIP5PF6](Add screenshot 1 here with proper name)
+*it contains all screeshots*
 
-![Screenshot2](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
 
-![Screenshot3](Add screenshot 3 here with proper name)
-*Add caption explaining what this shows*
 
-# Diagrams
-![Workflow](Add your workflow/architecture diagram here)
-*Add caption explaining your workflow*
-
-For Hardware:
-
-# Schematic & Circuit
-![Circuit](Add your circuit diagram here)
-*Add caption explaining connections*
-
-![Schematic](Add your schematic diagram here)
-*Add caption explaining the schematic*
-
-# Build Photos
-![Components](Add photo of your components here)
-*List out all components shown*
-
-![Build](Add photos of build process here)
-*Explain the build steps*
-
-![Final](Add photo of final product here)
-*Explain the final build*
 
 ### Project Demo
 # Video
-[Add your demo video link here]
-*Explain what the video demonstrates*
+[https://drive.google.com/file/d/1QGcl2DGrCE2TxkAQO19NvE4ySou2QS3h/view?usp=drivesdk]
+**
 
-# Additional Demos
-[Add any extra demo materials/links]
+# Project url
+[https://ltf8wfvxbco2ndiya6appsb.streamlit.app/]
 
 ## Team Contributions
-- [Name 1]: [Specific contributions]
-- [Name 2]: [Specific contributions]
-- [Name 3]: [Specific contributions]
+- [Muhammed Akbar]: [Lead developer,Streamlit UI design, emotion detection integration]
+- [Anu An Mariya]: [data generation, model training,documentation]
 
 ---
 Made with ❤️ at TinkerHub Useless Projects 
